@@ -1,0 +1,15 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="/css/public.css" />
+</head>
+<body>
+	<% datas.map(item=>{ %>
+		<p><%=item.id%>、<%=item.name%>、<%=item.isShow%>、<%=item.createTime%></p>
+	<% }) %>
+	
+	<% datas2.map(item=>{ %>
+		<p><%=item.id%>、<%=item.name%>、<%=item.price%>、<%=item.createTime%></p>
+	<% }) %>
+</body>
+</html>
