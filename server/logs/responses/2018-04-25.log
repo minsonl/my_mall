@@ -1,0 +1,16 @@
+[2018-04-25T23:26:03.864] [INFO] response - { method: 'GET',
+  url: '/',
+  ip: '::ffff:192.168.1.101',
+  query: {},
+  body: undefined,
+  costTime: 234,
+  responseStatus: 200,
+  responseMsg: 'OK' }
+[2018-04-25T23:26:25.727] [INFO] response - { method: 'GET',
+  url: '/?param=1',
+  ip: '::1',
+  query: { param: '1' },
+  body: undefined,
+  costTime: 236,
+  responseStatus: 200,
+  responseMsg: 'OK' }
