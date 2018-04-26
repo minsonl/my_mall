@@ -1,0 +1,8 @@
+[2018-04-27T00:09:19.458] [INFO] response - { method: 'GET',
+  url: '/',
+  ip: '::1',
+  query: {},
+  body: undefined,
+  costTime: 459,
+  responseStatus: 200,
+  responseMsg: 'OK' }
